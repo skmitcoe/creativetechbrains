@@ -1,0 +1,5 @@
+vaderSentiment
+feedparser
+newspaper3k
+torch
+transformers
